@@ -1,16 +1,20 @@
 h1{
+    text-decoration: dotted;
+    font-size: 50px;
     text-align: center;
-    color: rgb(1, 209, 147);
+    color: rgb(253, 255, 255);
 }
 
 body{
-    background-color: rgb(251, 252, 253);
+    background-color: rgb(1, 19, 37);
 }
 
-img{
-background-size: cover;
-width: 80%;
-height: 400px;
-l
+.logo {
+    border-radius: 50%;
+    width: 70px;
 }
- 
+.mochila {
+    border-radius: 25%;
+    width: 400px;
+
+}
