@@ -1,7 +1,4 @@
 alert(
-    "hola"
+    "hola cochel pulsa aceptar"
 );
 
-console.log(
-    "hola ferbers"
-);
